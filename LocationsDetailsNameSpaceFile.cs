@@ -147,7 +147,7 @@ namespace LocationsDetailsNamespace
     public class Medical
     {
         public string DoctorName;
-        public int PriceToHeal = GameplayLoop.RNG.Next(0, 9999999);
+        public int PriceToHeal = GameplayLoop.RNG.Next(0, GameplayLoop.PlayerOnRound*2);
         public Medical()
         {
             int WillOrWillNotHeal = GameplayLoop.RNG.Next(0, 2);
@@ -241,10 +241,10 @@ namespace LocationsDetailsNamespace
         public FreeMove()
         {
             Console.Clear();
-            int TheRoll = GameplayLoop.RNG.Next(0, GameplayLoop.PlayerOnRound);
+            int TheRoll = GameplayLoop.RNG.Next(0, GameplayLoop.PlayerOnRound*2);
             GameplayLoop.UserCharater.PlayerExpAmount += TheRoll;
             Console.WriteLine("You have received " + TheRoll + "EXP");
-            TheRoll = GameplayLoop.RNG.Next(0, GameplayLoop.PlayerOnRound);
+            TheRoll = GameplayLoop.RNG.Next(0, GameplayLoop.PlayerOnRound*2);
             GameplayLoop.UserCharater.Coins += TheRoll;
             Console.WriteLine("You have found " + TheRoll + "coins");
             Console.WriteLine("PRESS ANY KEY TO CONTINUE");
