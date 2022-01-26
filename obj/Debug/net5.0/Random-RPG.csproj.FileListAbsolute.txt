@@ -1,0 +1,17 @@
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\bin\Debug\net5.0\Random-RPG.exe
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\bin\Debug\net5.0\data.csv
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\bin\Debug\net5.0\Random-RPG.deps.json
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\bin\Debug\net5.0\Random-RPG.runtimeconfig.json
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\bin\Debug\net5.0\Random-RPG.runtimeconfig.dev.json
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\bin\Debug\net5.0\Random-RPG.dll
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\bin\Debug\net5.0\ref\Random-RPG.dll
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\bin\Debug\net5.0\Random-RPG.pdb
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\obj\Debug\net5.0\Random-RPG.csproj.AssemblyReference.cache
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\obj\Debug\net5.0\Random-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\obj\Debug\net5.0\Random-RPG.AssemblyInfoInputs.cache
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\obj\Debug\net5.0\Random-RPG.AssemblyInfo.cs
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\obj\Debug\net5.0\Random-RPG.csproj.CoreCompileInputs.cache
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\obj\Debug\net5.0\Random-RPG.dll
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\obj\Debug\net5.0\ref\Random-RPG.dll
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\obj\Debug\net5.0\Random-RPG.pdb
+C:\Users\Donovan PC\Documents\GitHub\Random-RPG\obj\Debug\net5.0\Random-RPG.genruntimeconfig.cache
