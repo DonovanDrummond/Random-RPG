@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PQhxJkb6K0CJ9ehzzt2+7EqG4WU8E2O/p5wLG+ngVYeoI+Vk4iUObygm5cFUwYgFkPbIIId+xP/TRvzBF6uBwg==",
+  "dgSpecHash": "cClBjOrDIeknuEpw16xXJaZ+G+SJIFNytvgnd35Fo692N3dofNxBeeI5JcrHL9/H+myerJyBnQHlNJe2ZG25GA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Donovan PC\\Documents\\GitHub\\Random-RPG\\Random-RPG.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Donovan PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

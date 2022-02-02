@@ -286,12 +286,10 @@ namespace RPG
                 }
 
 
-                try
+                if (UserCharater.WeaponInUse.ItemName != null)
                 {
                     HeldItemDamge = Convert.ToInt32(ItemEnemyShopOwnerInfo[0].Split("\n")[UserCharater.WeaponInUse.ItemID].Split(",")[4]);
                 }
-                catch
-                { }
                 if (SkipThisFight == true)
                 {
                     SkipThisFight = false;
